@@ -1,0 +1,11 @@
+pl\pjwst\CurrencyServiceException.class
+pl\pjwst\model\Result.class
+pl\pjwst\RestTemplateConfig.class
+pl\pjwst\model\DTO\RateDTO.class
+pl\pjwst\DemoApplication.class
+pl\pjwst\NotFoundException.class
+pl\pjwst\CurrencyService.class
+pl\pjwst\BadRequestException.class
+pl\pjwst\CurrencyController.class
+pl\pjwst\model\DTO\CurrencyDTO.class
+pl\pjwst\CurrencyResultRepository.class
